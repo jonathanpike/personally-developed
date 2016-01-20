@@ -1,0 +1,24 @@
+.namebox {
+  margin-top: 20px;
+  border-radius: 2px;
+  border: 2px solid rgba(125, 222, 255, 0.5);
+}
+
+.navigation {
+  list-style: none;
+  padding: 0px;
+}
+
+.title a:link {
+  color: #69C5FF;
+  border-bottom: 0px;
+}
+
+.title a:visited {
+  color: #69C5FF;
+  text-decoration: none;
+}
+
+.title a:hover {
+  color: #d33682;
+}

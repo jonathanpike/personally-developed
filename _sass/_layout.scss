@@ -1,0 +1,27 @@
+html{
+  height: 100%;
+}
+
+body {
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+  font-size: 16px;
+  border: 8px solid rgba(125, 222, 255, 0.5);
+  min-height: 100%;
+  @media only screen and (max-width: 500px) {
+    border: 4px solid rgba(125, 222, 255, 0.5);
+  }
+}
+
+a:link {
+  border-bottom: 1px black dotted;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+a:visited {
+  color: #337ab7;
+  text-decoration: none;
+}

@@ -1,0 +1,19 @@
+---
+---
+// Imports
+@import "bootstrap";
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
+@import "animate";
+@import "layout";
+@import "header";
+@import "posts";
+@import "archive";
+@import "footer";
+@import "syntax-highlighting";
+
+// Formatting
+
+.center-image {
+    margin: 0 auto;
+    display: block;
+}

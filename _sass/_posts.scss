@@ -1,0 +1,26 @@
+.contentbox {
+  margin-bottom: 20px;
+  padding: 0px 30px 0px 30px;
+  @media only screen and (max-width: 500px) {
+    padding: 0px;
+  }
+}
+
+#post-list {
+  padding: 0px;
+  list-style-type: none;
+}
+
+.post {
+  margin: 0px 0px 60px 0px;
+}
+
+.meta {
+  color: #777;
+}
+
+code {
+  background-color:#fdf6e3;
+  font-family: 'Inconsolata', ;
+  font-size: 1.1em;
+}
