@@ -2,6 +2,8 @@
 
 A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your content first.  Extracted from [my blog](jonathanpike.net) for your enjoyment and use. 
 
+![screen shot 2016-01-21 at 5 39 39 am](https://cloud.githubusercontent.com/assets/8129357/12478191/87a7ec36-c001-11e5-985e-93e2b11ee076.png)
+
 ## Usage
 
 #### First Time Jekyll User
