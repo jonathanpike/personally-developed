@@ -19,7 +19,7 @@ For more information on using Jekyll, please read the [documentation](http://jek
 
 #### Current Jekyll User
 
-If you already have a Jekyll blog, you'll just have to copy over the following files: 
+First, make sure you're running Jekyll 2.x, as prior versions did not support Sass.  If so, you'll just have to copy over the following files: 
 
 ```
 .
