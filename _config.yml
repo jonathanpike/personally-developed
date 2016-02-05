@@ -13,7 +13,7 @@ paginate_path: "/page/:num"
 # Build settings
 markdown: kramdown
 sass:
-    style: compressed
+  style: compressed
 
 # Markdown Processor
 kramdown: 
@@ -21,7 +21,6 @@ kramdown:
 
 # Gems
 gems:
-  - jekyll-archives
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-mentions
@@ -29,7 +28,7 @@ gems:
   - jekyll-seo-tag
 
 # Archives
-permalinks: '/:year/:month/:title'
+permalink: '/:year/:month/:title'
 
 # Exclusions
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor', 'Rakefile']
