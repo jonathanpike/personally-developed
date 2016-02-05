@@ -26,6 +26,7 @@ gems:
   - jekyll-mentions
   - jemoji
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Archives
 permalink: '/:year/:month/:title'
