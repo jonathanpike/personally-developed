@@ -19,6 +19,10 @@
   color: #777;
 }
 
+.link-arrow {
+  @extend .meta;
+}
+
 code {
   background-color:#fdf6e3;
   font-family: 'Inconsolata', ;
