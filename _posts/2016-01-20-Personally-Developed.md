@@ -4,8 +4,6 @@ title:  "Personally Developed"
 date:   2016-01-20 09:28:53
 ---
 
-# Personally Developed
-
 A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your content first.  Extracted from [my blog](jonathanpike.net) for your enjoyment and use. 
 
 ## Usage
