@@ -2,7 +2,7 @@
 
 A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your content first.  Extracted from [my blog](jonathanpike.net) for your enjoyment and use. 
 
-![screen shot 2016-01-21 at 5 39 39 am](https://cloud.githubusercontent.com/assets/8129357/12478191/87a7ec36-c001-11e5-985e-93e2b11ee076.png)
+![screen shot 2016-02-05 at 8 20 58 am](https://cloud.githubusercontent.com/assets/8129357/12847498/9ed6f2da-cbe1-11e5-9f0a-23d3180613ae.png)
 
 ## Usage
 
