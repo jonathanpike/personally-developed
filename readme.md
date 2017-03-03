@@ -34,15 +34,19 @@ First, make sure you're running Jekyll 2.x, as prior versions did not support Sa
 |	├── page.html
 |   └── post.html
 ├── _sass
-|   ├── bootstrap
+|   ├── neat
 |	├── _animate.scss
 |	├── _archive.scss
-|	├── _bootstrap.scss
+|	├── _fonts.scss
 |	├── _footer.scss
 |	├── _header.scss
 |	├── _layout.scss
+|	├── _neat.scss
 |	├── _posts.scss
-|   └── _syntax-highlighting.scss
+|	├── _reboot.scss
+|	├── _syntax.scss
+|	├── _utilities.scss
+|   └── _variables.scss
 ├── assets
 |   ├── js
 |   |	└── main.min.js
