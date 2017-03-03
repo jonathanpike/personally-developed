@@ -34,19 +34,20 @@ First, make sure you're running Jekyll 2.x, as prior versions did not support Sa
 |	├── page.html
 |   └── post.html
 ├── _sass
-|   ├── neat
-|	├── _animate.scss
-|	├── _archive.scss
-|	├── _fonts.scss
-|	├── _footer.scss
-|	├── _header.scss
-|	├── _layout.scss
-|	├── _neat.scss
-|	├── _posts.scss
-|	├── _reboot.scss
-|	├── _syntax.scss
-|	├── _utilities.scss
-|   └── _variables.scss
+|   ├── personally-developed
+|   |	├── _animate.scss
+|   |	├── _archive.scss
+|   |	├── _fonts.scss
+|   |	├── _footer.scss
+|   |	├── _header.scss
+|   |	├── _layout.scss
+|   |	├── _neat.scss
+|   |	├── _posts.scss
+|   |	├── _reboot.scss
+|   |	├── _syntax.scss
+|   |	├── _utilities.scss
+|   |   └── _variables.scss
+|   └── personally-developed.scss
 ├── assets
 |   ├── js
 |   |	└── main.min.js
@@ -75,4 +76,4 @@ Personally Developed can be customized however you'd like.
 
 Most identity (ie. blog name, author name) config is done in `_config.yml`.  I've included a sample `_config.yml` for you, and you can read more about what you can do with that file in [the Jekyll documentation](http://jekyllrb.com/docs/configuration/).
 
-I've made customization easier with Sass variables! All color options are set right at the top of `_sass/_variables.scss`, as are font defaults.
+I've made customization easier with Sass variables! All color options are set right at the top of [`_sass/personally-developed/_variables.scss`](/_sass/personally-developed/_variables.scss), as are font defaults.
