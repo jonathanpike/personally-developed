@@ -1,7 +1,15 @@
 .namebox {
+  @include grid-column(12);
+
+  @include grid-media($large-neat-grid){
+    @include grid-column(4);
+  }
+
   margin-top: 20px;
   border-radius: 2px;
-  border: 2px solid rgba(125, 222, 255, 0.5);
+  border: 2px solid $pd-transparent-blue; 
+  position: relative;
+	padding: 0 15px;
 }
 
 .navigation {
@@ -10,15 +18,10 @@
 }
 
 .title a:link {
-  color: #69C5FF;
   border-bottom: 0px;
 }
 
 .title a:visited {
-  color: #69C5FF;
   text-decoration: none;
 }
 
-.title a:hover {
-  color: #d33682;
-}

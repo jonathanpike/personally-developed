@@ -1,9 +1,8 @@
 .this {
   list-style: none;
-  background-color: #fdf6e3;
+  background-color: $pd-yellow; 
   border-radius: 5px;
   padding: 10px;
-
 }
 
 .past {
@@ -13,7 +12,7 @@
 
 #archive ul li time {
   padding-right: 10px;
-  font-family: 'Inconsolata', ;
+  font-family: $pd-font-family-monospace; 
   font-size: 1.1em; 
   &::after {
     content: "•";

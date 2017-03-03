@@ -1,3 +1,7 @@
+.footerbox {
+  @include grid-column(12);
+}
+
 .rule {
   width: 30%;
   margin-left: auto;

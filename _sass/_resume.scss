@@ -1,0 +1,54 @@
+#name {
+  color: $pd-dark-blue; 
+}
+
+.divider {
+  border-top: 2px solid $pd-transparent-blue; 
+}
+
+.social {
+  list-style: none;
+  padding: 0px;
+  li {
+    display: inline;
+    margin: 0px 10px 0px 10px;
+    @media only screen and (max-width: 500px) {
+      margin: -2px;
+    }
+  }
+}
+
+a.social--link {
+  border-bottom: none;
+}
+
+svg.social--graphic {
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+}
+svg.social--graphic:hover {
+  fill: $pd-orange; 
+}
+
+.highlight-text {
+	font-style:italic;
+	background-color: $pd-yellow;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: flex-start;
+  @media only screen and (max-width: 750px) {
+    flex-wrap: wrap;
+  }
+}
+
+.flex-child {
+  width: 175px;
+}
+
+.rule {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
