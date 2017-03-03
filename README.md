@@ -75,4 +75,4 @@ Personally Developed can be customized however you'd like.
 
 Most identity (ie. blog name, author name) config is done in `_config.yml`.  I've included a sample `_config.yml` for you, and you can read more about what you can do with that file in [the Jekyll documentation](http://jekyllrb.com/docs/configuration/).
 
-I've made customization with Sass variables! All color options are set right at the top of `_sass/_variables.scss`, as are font defaults.
+I've made customization easier with Sass variables! All color options are set right at the top of `_sass/_variables.scss`, as are font defaults.
