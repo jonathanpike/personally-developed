@@ -75,43 +75,4 @@ Personally Developed can be customized however you'd like.
 
 Most identity (ie. blog name, author name) config is done in `_config.yml`.  I've included a sample `_config.yml` for you, and you can read more about what you can do with that file in [the Jekyll documentation](http://jekyllrb.com/docs/configuration/).
 
-Some common visual customizations: 
-
-#### Page Border
-
-In `_layout.scss`: 
-
-``` 
-body {
-  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-  font-size: 16px;
-  border: 8px solid rgba(125, 222, 255, 0.5); <- CHANGE THIS
-  min-height: 100%;
-  @media only screen and (max-width: 500px) {
-    border: 4px solid rgba(125, 222, 255, 0.5); <- AND THIS
-  }
-}
-```
-
-#### Navigation Border
-
-In `_header.scss`:
-
-```
-.namebox {
-  margin-top: 20px;
-  border-radius: 2px;
-  border: 2px solid rgba(125, 222, 255, 0.5); <- CHANGE THIS
-}
-```
-
-## License 
-
-**The MIT License (MIT)**
-Copyright (c) 2016 Jonathan Pike.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+I've made customization with Sass variables! All color options are set right at the top of `_sass/_variables.scss`, as are font defaults.
