@@ -1,6 +1,6 @@
 # Personally Developed
 
-A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your content first.  Extracted from [my blog](jonathanpike.net) for your enjoyment and use. 
+A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your content first.  Extracted from [my blog](jonathanpike.net) for your enjoyment and use. Also available as a [gem](https://github.com/jonathanpike/personally-developed-gem).
 
 ![theme screenshot](/screenshot.png)
 
