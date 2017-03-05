@@ -4,6 +4,8 @@ A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your cont
 
 ![theme screenshot](/screenshot.png)
 
+### View a [live demo](https://jonathanpike.net/personally-developed/)!
+
 ## Usage
 
 #### First Time Jekyll User
