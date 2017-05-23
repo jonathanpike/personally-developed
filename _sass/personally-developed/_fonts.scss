@@ -23,3 +23,12 @@ hr {
   border: 0;
   border-top: 1px solid rgba($pd-black,.1);
 }
+
+// Blockquotes
+blockquote {
+  padding: (1rem / 2) 1rem;
+  margin-bottom: 1rem;
+  font-size: $font-size-base * 1.1;
+  color: $pd-light-gray;
+  border-left: .15rem solid $pd-transparent-blue;
+}

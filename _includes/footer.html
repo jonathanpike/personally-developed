@@ -1,5 +1,8 @@
 <footer>  
     <div class="col-xs-12">
         <p class="text-center">Have a great rest of your <span id="day">day</span>!</p>
+        <br />
+        {% assign earliestPost = site.posts | last %}
+        <p class="meta text-center">&copy; {{ earliestPost.date | date: "%Y" }}–{{ site.time | date: "%Y" }} {{ site.author }}</p>
     </div>
 </footer>
