@@ -4,7 +4,7 @@ A simple, one column theme for [Jekyll](http://jekyllrb.com) that puts your cont
 
 ![theme screenshot](/screenshot.png)
 
-### View a [live demo](https://jonathanpike.net/personally-developed/)!
+### View a [live demo](http://jonathanpike.github.io/personally-developed/)!
 
 ## Usage
 
